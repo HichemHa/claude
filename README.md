@@ -8,4 +8,4 @@ Personal portfolio site, served with GitHub Pages.
 ## Enable GitHub Pages
 1. Make the repo public (or use a GitHub Pro/Team plan for private Pages).
 2. Settings → Pages → Source: **GitHub Actions**.
-3. Merge to `main` — the site goes live at https://hichemha.github.io/claude/
+3. Push to the default branch — the site goes live at https://hichemha.github.io/resume/
